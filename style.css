@@ -57,6 +57,9 @@ main {
     font-size: 3rem;
     font-weight: 600;
     font-family: var(--font-family);
+    padding-left: 1rem;
+    padding-left: 1rem;
+    text-align: left;
 }
 
 ::placeholder {
@@ -157,7 +160,6 @@ main {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    display: inline-block;
 }
 
 .decodificador__resultado__texto {
@@ -171,20 +173,10 @@ main {
     font-family: var(--font-family);
     margin-bottom: 2rem;
     margin-top: 2rem;
-    text-align: center;
-    overflow: hidden;
-    white-space: nowrap;
-    width: 0;
-    animation: typing;
-    animation-duration: 1.5s;
-    animation-timing-function: steps(30, end);
-    animation-fill-mode: forwards;  
+    padding-right: 1rem;
+    padding-left: 1rem;
+    text-align: left;
 }
-
-@keyframes typing {
-    from { width: 0 }
-    to { width: 100% }
-  }
 
 .decodificador__resultado__btn__copiar {
     border: 1px solid var(--cor--quartenaria);
