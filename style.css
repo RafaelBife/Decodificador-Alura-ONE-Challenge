@@ -163,8 +163,8 @@ main {
 }
 
 .decodificador__resultado__texto {
-    height: 100%;
-    max-width: 100%;
+    height: 90%;
+    max-width: 90%;
     border: none;
     resize: none;
     color: var(--cor--quartenaria);
@@ -229,6 +229,7 @@ footer {
     display: flex;
     flex-direction: row-reverse;
 }
+
 .rodape__imagem {
     width: 2.5rem;
     height: 2.5rem;
