@@ -33,6 +33,22 @@ O resultado deve ser exibido na tela.
 
 * JavaScript
 
+## Demonstrações Desktop:
+
+![image](https://github.com/RafaelBife/Decodificador-Alura-ONE-Challenge/blob/main/img/demo-decodificador.jpg)
+
+![image](https://github.com/RafaelBife/Decodificador-Alura-ONE-Challenge/blob/main/img/demo-decodificador2.jpg)
+
+![image](https://github.com/RafaelBife/Decodificador-Alura-ONE-Challenge/blob/main/img/demo-decodificador-alert.jpg)
+
+## Demonstração @mediaquery Tablet:
+
+![image](https://github.com/RafaelBife/Decodificador-Alura-ONE-Challenge/blob/main/img/demo-decodificador-tablet.jpg)
+
+## Demonstração @mediaquery Mobile:
+
+![image](https://github.com/RafaelBife/Decodificador-Alura-ONE-Challenge/blob/main/img/demo-decodificador-mobile.jpg)
+
 ## Desenvolvido por:
 
 ### Rafael Bife
